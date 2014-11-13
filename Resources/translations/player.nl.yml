@@ -4,8 +4,8 @@
 'video call': video gesprek
 'information help': meer weten
 'faq help': veel gestelde vragen
-'Your discussion has ended': Uw gesprek is beeïndigd.<br /> Dankuwel om ons te contacteren.
-'Please, rate this discussion': Beoordeel dit gesprek aub :
+'Your discussion has ended': Uw gesprek is beeïndigd.<br /> Bedankt dat u contact met ons opgenomen heeft.
+'Please, rate this discussion': Beoordeel dit gesprek a.u.b :
 'Discussion helpful ?': Was dit gesprek nuttig voor u ?
 'Would you recommend this experience to your friends?': Zou u deze service aan uw vrienden aanbevelen ?
 'Any comments ?': Uw suggesties :
@@ -19,7 +19,7 @@
 'i am currently unavailable': Mijn excuses, ik ben momenteel niet beschikbaar. Gelieve een bericht achter te laten.
 'Your mail': Uw emailadres
 'Or': of
-'Please type your message here': Typ hier uw bericht aub.
+'Please type your message here': Typ hier uw bericht a.u.b.
 'message field required': verplicht veld
 'email or phone field required': email of telefoonnummer verplicht in te vullen
 'send': versturen
@@ -38,7 +38,7 @@
 'webuser': ik
 'user flash crash': Probleem met de Flash plugin. U bent nu in de chat (tekst) modus gezet.
 'message sent': Bericht verzonden
-'cgv': Door deze service te gebruiken aanvaardt u de <a href="http://www.videodesk.fr/terms" target="_blank">Algemene Verkoopsvoorwaarden</a> van Videodesk S.A.S. en alle aanpassingen ervan. Indien u niet akkoord kan gaan, gelieve dan deze service niet te gebruiken.
+'cgv': Door deze service te gebruiken aanvaardt u de <a href="http://www.videodesk.fr/terms" target="_blank">Algemene Verkoopvoorwaarden</a> van Videodesk S.A.S. en alle aanpassingen ervan. Indien u niet akkoord kan gaan, gelieve dan deze service niet te gebruiken.
 'You will can enter your text here': U kan uw tekst hier invoeren
 'Discussion with %site%': Gesprek met %site%
 'hello': hallo
@@ -69,14 +69,14 @@ bad: Slecht
 poor: Zeer slecht
 regular: Neutraal
 good: Goed
-gorgeous: Geweldig
+gorgeous: Uitmuntend
 
 #module texts
 'Live Help': CONTACT
 'agent(s) available': beschikbare medewerker(s)
-'Chat (video or text) for free with ecommerce experts': Chat (video of text) met één van onze deskundige medewerkers
+'Chat (video or text) for free with ecommerce experts': Chat gratis (video of text) met één van onze deskundige medewerkers
 'information help':  U kunt nu een gesprek beginnen met een beschikbare medewerker. U kunt kiezen tussen een  video, audio of text gesprek. Snel, simpel, anoniem en gratis.
-'pending call text': Goedendag, u wilt contact met Videodesk. De gevraagde persoon is direct voor u beschikbaar.
+'pending call text': Goedendag, u wilt contact met de videodesk. De gevraagde persoon is direct voor u beschikbaar.
 'flash security panel': Klik op "Toestaan" voor een gesprek
 'Leave a text message': Sorry, ik ben momenteel niet beschikbaar. Laat een bericht achter aub.
 
